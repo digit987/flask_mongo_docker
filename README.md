@@ -8,4 +8,4 @@ A dockerized Flask MongoDB CRUD Rest API
 4. Stop container: docker-compose down
 
 # API Doc
-In file api_usage_document.pdf
+Check api_usage_document.pdf
